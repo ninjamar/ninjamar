@@ -1,5 +1,4 @@
 ![hehe](https://upload.wikimedia.org/wikipedia/en/9/9a/Trollface_non-free.png)
-![hehe](https://ninjamar.github.io/images/jeffbuffalo.jpg)
 ## Where am I?
 [Scratch](https://scratch.mit.edu/users/ninjamar)  
 [Replit](https://replit.com/@ninjamar)
