@@ -6,7 +6,8 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=ninjamar)](https://github.com/ryo-ma/github-profile-trophy)
 
 Thanks to [ApoIIo-](https://scratch.mit.edu/users/ApoIIo-) for my logo
-
+![Art](https://ninjamar.dev/assets/images/top-gun-art)
+^^ Top Gun art made by me
 ![Happy](https://i.stack.imgur.com/YryhF.jpg)
 ![Random](https://imgs.xkcd.com/comics/random_number.png)
 
