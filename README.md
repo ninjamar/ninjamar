@@ -1,3 +1,4 @@
+I plan on creating some more stuff here
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 <br>
 [![ninjamar's GitHub stats](https://github-readme-stats.vercel.app/api?username=ninjamar&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
