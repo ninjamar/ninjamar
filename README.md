@@ -2,7 +2,7 @@ Sign up using my refferals \
 https://autofaucet.dutchycorp.space/?r=ninjamar \
 https://minepi.com/ninjamar1 \
 https://pipeflare.io/r/g7b6 \
-https://rollercoin.com/?r=l2beogyq \
+https://rollercoin.com/?r=l2beogyq
 							
 
 I plan on creating some more stuff here
