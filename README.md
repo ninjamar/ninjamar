@@ -1,5 +1,6 @@
 Sign up using my refferals \
 https://autofaucet.dutchycorp.space/?r=ninjamar \
+https://faucet.ovh/?r=ninjamar (gets sent to dutchy autofaucet ^^^^^^)\
 https://minepi.com/ninjamar1 \
 https://pipeflare.io/r/g7b6 \
 https://rollercoin.com/?r=l2beogyq \
