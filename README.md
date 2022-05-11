@@ -7,7 +7,7 @@ https://rollercoin.com/?r=l2beogyq \
 https://coin.onelink.me/ePJg/3mtzuwge (open this on ios/android)
 							
 
-I plan on creating some more stuff here
+Doing crypto things
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 <br>
 [![ninjamar's GitHub stats](https://github-readme-stats.vercel.app/api?username=ninjamar&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
