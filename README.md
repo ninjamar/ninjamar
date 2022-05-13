@@ -1,3 +1,5 @@
+New blog!
+https://www.publish0x.com/@ninjamar
 Sign up using my refferals \
 https://autofaucet.dutchycorp.space/?r=ninjamar \
 https://faucet.ovh/?r=ninjamar (gets sent to dutchy autofaucet ^^^^^^)\
