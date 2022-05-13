@@ -4,7 +4,8 @@ https://faucet.ovh/?r=ninjamar (gets sent to dutchy autofaucet ^^^^^^)\
 https://minepi.com/ninjamar1 \
 https://pipeflare.io/r/g7b6 \
 https://rollercoin.com/?r=l2beogyq \
-https://coin.onelink.me/ePJg/3mtzuwge (open this on ios/android)
+https://coin.onelink.me/ePJg/3mtzuwge (open this on ios/android) \
+https://coinmarketcap.com/invite?ref=R517WPU1
 							
 
 Doing crypto things
