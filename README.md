@@ -1,16 +1,5 @@
-New blog!
-https://www.publish0x.com/@ninjamar
-Sign up using my refferals \
-https://autofaucet.dutchycorp.space/?r=ninjamar \
-https://faucet.ovh/?r=ninjamar (gets sent to dutchy autofaucet ^^^^^^)\
-https://minepi.com/ninjamar1 \
-https://pipeflare.io/r/g7b6 \
-https://rollercoin.com/?r=l2beogyq \
-https://coin.onelink.me/ePJg/3mtzuwge (open this on ios/android) \
-https://coinmarketcap.com/invite?ref=R517WPU1
-							
 
-Doing crypto things
+Trying to make a rootkit + finish (test) crypto stuff
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 <br>
 [![ninjamar's GitHub stats](https://github-readme-stats.vercel.app/api?username=ninjamar&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
