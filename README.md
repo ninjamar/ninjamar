@@ -1,4 +1,16 @@
 
+[NinjaSocial](https://social.ninjamar.dev) is out! It is a social app built with Django.
+
+
+<br>
+
+
+[![ninjamar's GitHub stats](https://github-readme-stats.vercel.app/api?username=ninjamar)](https://github.com/anuraghazra/github-readme-stats)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ninjamar)](https://github.com/ryo-ma/github-profile-trophy)]
+
+Thanks to [ApoIIo-](https://scratch.mit.edu/users/ApoIIo-) for my logo
+
 I have a big django project
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 <br>
@@ -8,10 +20,3 @@ I have a big django project
 [![trophy](https://github-profile-trophy.vercel.app/?username=ninjamar)](https://github.com/ryo-ma/github-profile-trophy)
 
 Thanks to [ApoIIo-](https://scratch.mit.edu/users/ApoIIo-) for my logo
-![Happy](https://i.stack.imgur.com/YryhF.jpg)
-![Random](https://imgs.xkcd.com/comics/random_number.png)
-
-```
->> ["hip","hip"]
-hip hip array
-```
