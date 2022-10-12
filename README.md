@@ -7,7 +7,7 @@
 
 [![ninjamar's GitHub stats](https://github-readme-stats.vercel.app/api?username=ninjamar)](https://github.com/anuraghazra/github-readme-stats)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ninjamar)](https://github.com/ryo-ma/github-profile-trophy)]
+[![trophy](https://github-profile-trophy.vercel.app/?username=ninjamar)](https://github.com/ryo-ma/github-profile-trophy)
 
 Thanks to [ApoIIo-](https://scratch.mit.edu/users/ApoIIo-) for my logo
 
